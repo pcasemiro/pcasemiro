@@ -2,8 +2,8 @@
 - 🌱 Estudo JavaScript/React
 
 <div>
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=gustavoDesen&show_icons=true&theme=dark"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoDesen&layout=compact&theme=dark"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=pcasemiro&show_icons=true&theme=dark"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pcasemiron&layout=compact&theme=dark"/>
 </div>
 
 ##
